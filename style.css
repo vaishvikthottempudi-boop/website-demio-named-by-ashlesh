@@ -1,9 +1,17 @@
 img {
     width: 200px;
+    height: 400px;
+    border-radius: 40px;
 }
 body {
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     background:  #9d7b61;
-    color: dark rgb(37, 21, 21);
+    color: dark rgb(72, 29, 29);
+}
+a:hover{
+    color: red;
+}
+a{
+    color: black;
 }
